@@ -1,4 +1,4 @@
-# Pen-Testing-Report
+# Pen-Testing-Report [Penetration Testing Report (2).pdf](https://github.com/user-attachments/files/19982017/Penetration.Testing.Report.2.pdf)
 
 ## Project Overview
 This project delivers a fully-featured penetration testing plan and report template covering every test phase, from rules of engagement and reconnaissance through exploitation, findings, and remediation. It’s dual-format: a polished Word (`.docx`) template for client deliverables and a plain-text Markdown version for code-centric workflows.
