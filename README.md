@@ -1,5 +1,4 @@
-# Pen-Testing-Report-Template
-A reusable DOCX & Markdown template for planning, executing, and reporting penetration tests aligned with NIST SP 800-115.
+# Pen-Testing-Report
 
 ## Project Overview
 This project delivers a fully-featured penetration testing plan and report template covering every test phase, from rules of engagement and reconnaissance through exploitation, findings, and remediation. It’s dual-format: a polished Word (`.docx`) template for client deliverables and a plain-text Markdown version for code-centric workflows.
